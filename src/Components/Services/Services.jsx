@@ -434,6 +434,8 @@ const Services = () => {
         </div>
       </section>
 
+
+
       {/* Others Nearby Properties section */}
       <section className=" max-w-[1216px] mx-auto mt-10 relative mb-20">
         <div className=" flex items-center justify-between">
