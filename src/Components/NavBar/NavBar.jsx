@@ -27,13 +27,13 @@ const NavBar = () => {
               className="menu menu-sm dropdown-content mt-3 z-[1] p-2 shadow bg-base-100 rounded-box w-52"
             >
               <li>
-                <NavLink to={"/"}>Home</NavLink>
+                <NavLink to={"/page1"}>Home</NavLink>
               </li>
               <li>
-                <NavLink to={"/buy"}>Buy</NavLink>
+                <NavLink to={"/page2"}>Buy</NavLink>
               </li>
               <li className=" mr-2">
-                <NavLink to={"/manageRentals"}>About</NavLink>
+                <NavLink to={"/page5"}>About</NavLink>
               </li>
               <li>
                 <a>Sell</a>
@@ -52,13 +52,13 @@ const NavBar = () => {
             <div className="navbar-center hidden lg:flex">
               <ul className="menu menu-horizontal px-1 text-lg font-normal">
                 <li className=" mr-2">
-                  <NavLink to={"/"}>Home</NavLink>
+                  <NavLink to={"/page1"}>Home</NavLink>
                 </li>
                 <li className=" mr-2">
-                  <NavLink to={"/buy"}>Buy</NavLink>
+                  <NavLink to={"/page2"}>Buy</NavLink>
                 </li>
                 <li className=" mr-2">
-                  <NavLink to={"/manageRentals"}>About</NavLink>
+                  <NavLink to={"/page5"}>About</NavLink>
                 </li>
                 <li className=" mr-2">
                   <a>Sell</a>
@@ -71,7 +71,7 @@ const NavBar = () => {
           </div>
         </div>
         <div>
-          <Link to={"/"}>
+          <Link to={"/page1"}>
             <img
               className="w-[53.289px] h-[80px]"
               src="https://i.ibb.co/R24kn3w/Hertiage-Nest-Final-LOGO-1-1.png"

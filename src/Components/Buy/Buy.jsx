@@ -370,7 +370,7 @@ const Buy = () => {
             Popular Properties
           </h2>
           <p className=" text-lg font-semibold text-[#0059b1] underline cursor-pointer">
-            <Link to={"/sell"}> See all propeety</Link>
+            <Link to={"/page3"}> See all propeety</Link>
           </p>
         </div>
 
@@ -769,7 +769,7 @@ const Buy = () => {
             New Listed Properties
           </h2>
           <p className=" text-lg font-semibold text-[#0059b1] underline cursor-pointer">
-            <Link to={"/sell"}> See all propeety</Link>
+            <Link to={"/page3"}> See all propeety</Link>
           </p>
         </div>
 

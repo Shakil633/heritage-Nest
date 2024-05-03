@@ -94,7 +94,7 @@ const Sell = () => {
 
                   <div className=" border-[#090909] hover:bg-[#090909] hover:text-white border-2 rounded flex items-center justify-center w-[135px] h-[40px]">
                     <button className="text-base font-medium">
-                      <Link to={"/services"}>Bid Property</Link>
+                      <Link to={"/page4"}>Bid Property</Link>
                     </button>
                   </div>
                 </div>
@@ -187,7 +187,7 @@ const Sell = () => {
 
                   <div className="border-[#090909] hover:bg-[#090909] hover:text-white border-2 rounded flex items-center justify-center w-[135px] h-[40px]">
                     <button className=" text-base font-medium">
-                      <Link to={"/services"}>Bid Property</Link>
+                      <Link to={"/page4"}>Bid Property</Link>
                     </button>
                   </div>
                 </div>
@@ -279,7 +279,7 @@ const Sell = () => {
 
                   <div className="border-[#090909] hover:bg-[#090909] hover:text-white border-2 rounded flex items-center justify-center w-[135px] h-[40px]">
                     <button className=" text-base font-medium">
-                      <Link to={"/services"}>Bid Property</Link>
+                      <Link to={"/page4"}>Bid Property</Link>
                     </button>
                   </div>
                 </div>
@@ -371,7 +371,7 @@ const Sell = () => {
 
                   <div className=" border-[#090909] hover:bg-[#090909] hover:text-white border-2 rounded flex items-center justify-center w-[135px] h-[40px]">
                     <button className=" text-base font-medium">
-                      <Link to={"/services"}>Bid Property</Link>
+                      <Link to={"/page4"}>Bid Property</Link>
                     </button>
                   </div>
                 </div>

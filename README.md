@@ -1,6 +1,6 @@
 # [Live Link](https://serene-mandazi-f095f2.netlify.app/)
 
-Assalamu Alaikum -
+Assalamu Alaikum Sir-
 
 The total number of pages in your figma file was 5 pages.
 
@@ -8,15 +8,15 @@ I am putting the first page on the home router. If you click on Home, you will s
 
 ### If you cannot find the anchor then down below there are all pages live links individually.
 
-- Page Number One-(https://serene-mandazi-f095f2.netlify.app/)
+- Page Number One-[Link](https://serene-mandazi-f095f2.netlify.app/)
 
-- Page Number Two-(https://serene-mandazi-f095f2.netlify.app/buy)
+- Page Number Two-[Link](https://serene-mandazi-f095f2.netlify.app/buy/)
 
-- Page Number Three-(https://serene-mandazi-f095f2.netlify.app/sell)
+- Page Number Three-[Link](https://serene-mandazi-f095f2.netlify.app/sell/)
 
-- Page Number Four-(https://serene-mandazi-f095f2.netlify.app/services)
+- Page Number Four-[Link](https://serene-mandazi-f095f2.netlify.app/services/)
 
-- Page Number Five-(https://serene-mandazi-f095f2.netlify.app/manageRentals)
+- Page Number Five-[Link](https://serene-mandazi-f095f2.netlify.app/manageRentals/)
 
 ### Technologies used :
 
