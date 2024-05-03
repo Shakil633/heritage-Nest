@@ -8,12 +8,13 @@ import Buy from "./Components/Buy/Buy";
 import Sell from "./Components/Sell/Sell";
 import Services from "./Components/Services/Services";
 import ManageRentals from "./Components/ManageRentals/ManageRentals";
+import ErrorPage from "./Components/Error/ErrorPage";
 
 const router = createBrowserRouter([
   {
     path: "/",
     element: <Root></Root>,
-
+    errorElement: <ErrorPage></ErrorPage>,
     children: [
       {
         path: "/",
