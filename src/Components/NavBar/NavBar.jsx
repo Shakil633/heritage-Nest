@@ -60,6 +60,7 @@ const NavBar = () => {
                 <li className=" mr-2">
                   <NavLink to={"/page5"}>About</NavLink>
                 </li>
+                
                 <li className=" mr-2">
                   <a>Sell</a>
                 </li>
